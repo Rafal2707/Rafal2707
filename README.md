@@ -23,11 +23,6 @@ I am a passionate Software Design graduate with a strong foundation in programmi
 
 You can also check out some of my game projects on [RP Developer](https://rpdeveloper.odoo.com/). Feel free to explore!
 
-
-## Contact 📧
-
-Feel free to reach out to me via email Let's connect and collaborate!
-
 ## Connect with me 🌐
 
 [LinkedIn](https://www.linkedin.com/in/rafa%C5%82-pych-06a0271a6/)
