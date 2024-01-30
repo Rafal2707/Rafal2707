@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hello, I'm Rafal! 👋
 
-<!--
-**Rafal2707/Rafal2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Design graduate with a strong foundation in programming. I am committed to continuous learning, excited about creative problem-solving, and a dedicated collaborator.
 
-Here are some ideas to get you started:
+## Educational Background 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **IT University of Copenhagen**
+  - *Master’s Degree, Software Design*
+
+- **The University of Economics**
+  - *Bachelor’s Degree, Finance and Accounting - Financial Markets*
+
+- **AGH University of Science and Technology**
+  - *Bachelor’s Degree, Electrical Engineering - High Voltage Utilization*
+
+## Skills 💻
+
+- Programming Languages: C#, C++, Java, JavaScript
+- Technologies: Unity, Unreal, Blender
+- Database Systems: Postgres, SQL
+
+## Projects 🚀
+
+- **Project 1**
+  - *Brief description and link if applicable*
+
+- **Project 2**
+  - *Brief description and link if applicable*
+
+## Game Development 🎮
+
+You can also check out some of my game projects on [RP Developer](https://rpdeveloper.odoo.com/). Feel free to explore!
+
+
+## Contact 📧
+
+Feel free to reach out to me via email Let's connect and collaborate!
+
+## Connect with me 🌐
+
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/rafa%C5%82-pych-06a0271a6/)https://www.linkedin.com/in/rafa%C5%82-pych-06a0271a6/)
+
+Thanks for visiting my GitHub profile! 😊
