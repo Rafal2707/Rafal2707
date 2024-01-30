@@ -19,14 +19,6 @@ I am a passionate Software Design graduate with a strong foundation in programmi
 - Technologies: Unity, Unreal, Blender
 - Database Systems: Postgres, SQL
 
-## Projects 🚀
-
-- **Project 1**
-  - *Brief description and link if applicable*
-
-- **Project 2**
-  - *Brief description and link if applicable*
-
 ## Game Development 🎮
 
 You can also check out some of my game projects on [RP Developer](https://rpdeveloper.odoo.com/). Feel free to explore!
