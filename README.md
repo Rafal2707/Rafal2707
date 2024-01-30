@@ -30,6 +30,6 @@ Feel free to reach out to me via email Let's connect and collaborate!
 
 ## Connect with me 🌐
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/rafa%C5%82-pych-06a0271a6/)https://www.linkedin.com/in/rafa%C5%82-pych-06a0271a6/).
+- [LinkedIn]((https://www.linkedin.com/in/rafa%C5%82-pych-06a0271a6/)https://www.linkedin.com/in/rafa%C5%82-pych-06a0271a6/).
 
 Thanks for visiting my GitHub profile! 😊
