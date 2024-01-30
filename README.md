@@ -4,14 +4,11 @@ I am a passionate Software Design graduate with a strong foundation in programmi
 
 ## Educational Background 📚
 
-- **IT University of Copenhagen**
-  - *Master’s Degree, Software Design*
+- **IT University of Copenhagen** - *Master’s Degree, Software Design*
 
-- **The University of Economics**
-  - *Bachelor’s Degree, Finance and Accounting - Financial Markets*
+- **The University of Economics** - *Bachelor’s Degree, Finance and Accounting - Financial Markets*
 
-- **AGH University of Science and Technology**
-  - *Bachelor’s Degree, Electrical Engineering - High Voltage Utilization*
+- **AGH University of Science and Technology** - *Bachelor’s Degree, Electrical Engineering - High Voltage Utilization*
 
 ## Skills 💻
 
